@@ -1,0 +1,15 @@
+.slider {
+  background-image: url("https://www.instagram.com/static/images/homepage/home-phones@2x.png/9364675fb26a.png)");
+  background-position: 0 0;
+  background-size: 454px 618px;
+  height: 618px;
+  margin-left: -35px;
+  margin-right: -15px;
+  align-self: center;
+  flex-basis: 454px;
+}
+
+.login-form-section {
+  background: white;
+  border: 1px solid #e6e6e6;
+}
